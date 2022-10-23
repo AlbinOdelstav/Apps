@@ -40,4 +40,4 @@ This app was created for a series of articles that I wrote on my website [WriTea
 - [Authenticated Goose articles on WriTeach](https://writeach.com/posts/-MA77uj7zWPCTMtiCeW-/Firebase-Authentication---1---Firebase-setup)
 
 #### Other articles
-[Here](https://writeach.com/articles/tagged/Android) are all articles on WriTeach that I written about android development.
+[Here](https://writeach.com/articles/tagged/Android) are all articles on WriTeach that I have written about android development.
