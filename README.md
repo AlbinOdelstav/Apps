@@ -1,5 +1,5 @@
 # Apps
-Here are some android apps that I have created. All of them were created with Java. All apps that I have published are available at [Google Play](https://play.google.com/store/search?q=frogitecture).
+Here are some native android apps that I have created. All apps that I have published are available at [Google Play](https://play.google.com/store/apps/dev?id=8271476251045721361). At the moment of this writing the only app that is still alive on Google Play is [Just Flashcards](https://play.google.com/store/apps/details?id=com.hallucind.flashcards), which I am still maintaining and introducing new features to. I have also built a [website](https://justflashcards.com/) for the product which I am also maintaining.
 
 ## Games
 All games were created with a basic game engine that is based on the book Beginning Android Games Development: From Beginner to Pro.
@@ -18,7 +18,7 @@ Inspired by classic brick breaker games. Google Play Achievements, leaderboard a
 ## Productivity
 ### [Just Flashcards](https://play.google.com/store/apps/details?id=com.hallucind.flashcards) - 2017
 <img src="https://play-lh.googleusercontent.com/rNd_SGDq7h96RDbUfr_lktT9Q-es-8_t2yCzDDp5LiLc6nu_Snyi0eRRjSaB4A7KNBg=s180-rw" width="100" height="100">
-Digitalized flashcards for students. It uses Firebase Authentication for accounts and Firestore Database for data handling, although I am currently working on a major update where the database will be moved to SQL. The coming update includes changes on both the app and the website https://justflashcards.com.
+Digitalized flashcards for students. It uses Firebase Authentication for accounts and MySQL for data handling. Users can purchase a monthly subscription to get access to premium functions. They can also use the website to study on computers, https://justflashcards.com.
 
 ### [Organized Time Tracker](https://play.google.com/store/apps/details?id=com.hallucind.organizedtimetracker) - 2018
 <img src="https://play-lh.googleusercontent.com/IegVlCvQP57b9tpzkyadrWrD5yqpyR13Dt2cyFVXGNjE6Tb1-63ceHfJjylNRBq9un0=s180-rw" width="100" height="100">
@@ -35,9 +35,9 @@ A xylophone that says "you are a silly goose" in that order but with different t
 ### Authenticated Goose - 2020
 <img src="https://user-images.githubusercontent.com/36008838/156198374-1eb88e68-e52e-4243-b0fe-215e445a4c9c.png" width="100" height="100">
 
-This app was created for a series of articles that I wrote on my website [WriTeach](https://writeach.com) where I go through how Firebase Authentication can be set up in android.
+This app was created for a series of articles that I wrote on my website [WriTeach](https://writeach-99f95.firebaseapp.com) where I go through how Firebase Authentication can be set up in android.
 - [Source code](https://github.com/frogitecture/Authenticated-Goose)
-- [Authenticated Goose articles on WriTeach](https://writeach.com/posts/-MA77uj7zWPCTMtiCeW-/Firebase-Authentication---1---Firebase-setup)
+- [Authenticated Goose articles on WriTeach](https://writeach-99f95.firebaseapp.com/posts/-MA77uj7zWPCTMtiCeW-/Firebase-Authentication---1---Firebase-setup)
 
 #### Other articles
-[Here](https://writeach.com/articles/tagged/Android) are all articles on WriTeach that I have written about android development.
+[Here](https://writeach-99f95.firebaseapp.com.com/articles/tagged/Android) are all articles on WriTeach that I have written about android development. This website is not being updated anymore and the previous domain writeach.com has been removed.
